@@ -1,0 +1,201 @@
+<resources>
+    <string name="app_name">Pune darshan</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="cafe_tab">Cafes</string>
+    <string name="colleges_tab">Colleges</string>
+    <string name="companies_tab">Companies</string>
+    <string name="forts_tab">Forts</string>
+
+    <string name="cafe_bawa_name">The Bawa</string>
+    <string name="cafe_bawa_details">Brand-new ‘The Bawa’ (aka ‘The Bawa Cafe’) tucked away in Viman Nagar is super charming. This converted bungalow is lovely to photograph from the outside, as well as from the inside. We love their vintage furniture, black-and-white Parsi-themed wall murals, countless framed images (of Bawatips, old photos, Parsi celebrities, and more), and super adorable wrought iron and wooden staircase. Curl up here with a hot cuppa ‘leelee choy’ (Parsi-style lemongrass milk tea), and chomp on a chicken farcha for maximum happiness. </string>
+    <string name="cafe_bawa_address">4, Nandgaon, Opp. Patanjali Mega Store, Viman Nagar, Pune</string>
+    <string name="cafe_bawa_phone">+919552418982</string>
+    <string name="cafe_bawa_timings">7:00 AM – 4:00 PM</string>
+    <string name="cafe_bawa_cost">₹ 500</string>
+
+    <string name="cafe_piatto_name">Piatto - Dessert Studio</string>
+    <string name="cafe_piatto_details">Piatto {meaning ‘plate’ in Italian} Dessert Studio in Kalyani Nagar is unlike any other we’ve visited in Pune. Their sleek, chic interiors offer just a hint of what to expect from their gorgeous dessert display.\n Everything on the menu here is made from scratch {no synthetics or additives are used}, and with painstaking detail. We were absolutely blown away by what we tasted – nothing was too sweet, and each dessert has its own ‘personality’ and balance of textures. To put it plainly, if you’re a dessert person then this should be the #1 destination on your list.</string>
+    <string name="cafe_piatto_address">5-A, Hermes Waves, Next To Kalyani Bungalow, Kalyani Nagar, Pune</string>
+    <string name="cafe_piatto_phone">+919763200099</string>
+    <string name="cafe_piatto_timings">12:00 PM - 10:30 PM</string>
+    <string name="cafe_piatto_cost">₹ 500</string>
+
+    <string name="cafe_waari_name">Waari Book Cafe</string>
+    <string name="cafe_waari_details">Nestled in the quiet lanes of Karishma Chowk, off Karve Road in Kothrud, Waari Book Cafe, boasting of pleasantly offbeat decor coupled with a peaceful vibe, is the ultimate paradise for all the readers in town.\nFrom creations by Enid Blyton to Amitav Ghosh and from Robin Cook to Margaret Mitchell, Waari houses over 3,000 books, across genres, authors and taste. So pick up your favourite book, place yourself comfortably on a cosy couch and unwind like never before! The curators of Waari Cafe love to experiment with their food. Therefore, the menu is perpetually changing {and, we aren’t complaining}.  You can also get your laptop and work at Waari. They are open seven days a week, between 9.00 am and 11.00 pm, and, besides good food and great books, they have WiFi too! What more? If you’re on a strict diet, get your own food. The owners don’t mind one bit. Since Waari doesn’t charge you for time and books, there is an entrance coupon of INR 50 for food and drinks. This is redeemable when you’re leaving.</string>
+    <string name="cafe_waari_address">Choice Institute, Ground Floor, Near Choice Health Club, Off Karve Road, Kothrud, Pune</string>
+    <string name="cafe_waari_phone">+919822666550</string>
+    <string name="cafe_waari_timings">09:00 AM - 11:00 PM</string>
+    <string name="cafe_waari_cost">₹ 500</string>
+
+    <string name="cafe_pondi_name">Cafe Pondi</string>
+    <string name="cafe_pondi_details">Cafe Pondi is located in a leafy by-lane of Kalyani Nagar, just around the corner from Jogger’s Park. Their ochre-coloured entry way with fuchsia bougainvillea flowers arching over a black-and-white wood swinging gate is an instant eye-catcher. Step into their warmly lit al fresco eatery, and it’s almost like you’ve stepped into someone’s bungalow in Pondicherry. Their colonial-style decor features beautiful old furniture, with ochre and mustard-toned furnishings, and the occasional bright pops of blue, pale green, brown, and white. Even their brass and ceramic table-ware make for a great photo-op! We love their big jhoola (swing) bench and the fact that there are so many plants and trees dotting the seating area. We like their mixed veg paniyaram, murukku ‘nachos’, and kaffir limeade. </string>
+    <string name="cafe_pondi_address">Plot 64, Clover Cascade, Lane 13, Opp. Joggers Park, Kalyani Nagar, Pune</string>
+    <string name="cafe_pondi_phone">+919822000053</string>
+    <string name="cafe_pondi_timings">11:00 AM – 11:00 PM</string>
+    <string name="cafe_pondi_cost">₹ 750</string>
+
+    <string name="cafe_mamgoto_name">Mamagoto</string>
+    <string name="cafe_mamgoto_details">Mamagoto is a ‘fusion Pan Asian café’, newly opened on the second floor at Pavillion Mall, Senapati Bapat Road. We love their kitschy, pop-art ‘Mamagoto’ themed decor which plays out in different ways at all their restaurants across the country. Bright colours, contemporary-style Oriental street art on the walls, framed prints suspended from the ceiling, modern chinoiserie decor and quirky furniture make it ideal for the ‘gram. And their food is pretty (and delicious) to boot!</string>
+    <string name="cafe_mamgoto_address">Pavillion Mall, 403-A/1, Unit 17, Senapati Bapat Road, Shivajinagar, Pune</string>
+    <string name="cafe_mamgoto_phone">+919607917208</string>
+    <string name="cafe_mamgoto_timings">12:00 PM – 11:30PM</string>
+    <string name="cafe_mamgoto_cost"> ₹ 1500</string>
+
+    <string name="cafe_stonned_name">Oh So Stoned</string>
+    <string name="cafe_stonned_details">Oh So Stoned is one of the city’s most popular ice cream parlours – and for good reason! Not only are their frozen creations a sight to behold, but their brightly coloured, sparkly-lit interiors are super appealing to the eye. What may not be obvious, is that their Baner outlet particularly – is a great place to Instagram. We love their ‘wall of windows’, which makes for a great backdrop against your ice cream (or a selfie). Light bulbs suspended from the ceiling lend a starry, twinkly something ‘extra’ to your photos – and we love their funky furniture (blue, pink, and yellow-weave chairs FTW), too. It’s an all-around ‘yes’ for those who love taking photos of their food, and of themselves (why not) – and we recommend visiting this outlet in the evening, for the best quality lighting and ambience.</string>
+    <string name="cafe_stonned_address">Shop 2, My World, Near Balevadi High Street, Baner, Pune</string>
+    <string name="cafe_stonned_phone">+918149030889</string>
+    <string name="cafe_stonned_timings">12:00 PM – 12:00 AM</string>
+    <string name="cafe_stonned_cost">₹ 400</string>
+
+    <string name="college_mit_name">MIT ADT University</string>
+    <string name="college_mit_address">MIT Art, Design and Technology University, Rajbaugh , Loni Kalbhor, Solapur Highway, Near Bharat Petrol Pump , Loni Kalbhor Railway station, Pune - 412201, Maharashtra</string>
+    <string name="college_mit_phone">+91-9595 124 234</string>
+    <string name="college_mit_website">www.mituniversity.edu.in</string>
+    <string name="college_mit_mail"> admissions@mituniversity.edu.in </string>
+    <string name="college_mit_type">Engineering</string>
+
+    <string name="college_coep_name">College of Engineering (COEP), Pune</string>
+    <string name="college_coep_address">College of Engg. Pune,Wellesely Rd,Shivajinagar,Pune-411 005.Maharashtra, INDIA.</string>
+    <string name="college_coep_phone"> +91-20-25507000</string>
+    <string name="college_coep_website">www.coep.org.in</string>
+    <string name="college_coep_mail">vitkarpt.office@coep.ac.in</string>
+    <string name="college_coep_type">Engineering</string>
+
+    <string name="college_sinhagad_name">Sinhgad College of Engineering,</string>
+    <string name="college_sinhagad_address">S. No. 44/1,Vadgaon (Budruk),Off. Sinhgad Road,Pune 411 041.Maharashtra, INDIA.</string>
+    <string name="college_sinhagad_phone">+91-020-24354705</string>
+    <string name="college_sinhagad_website">www.sinhgad.edu/</string>
+    <string name="college_sinhagad_mail">registrar.scoe@sinhgad.edu</string>
+    <string name="college_sinhagad_type">Engineering</string>
+
+    <string name="college_fergusson_name">Fergusson College, Pune</string>
+    <string name="college_fergusson_address">F.C. Road, Dellan, Pune-411004</string>
+    <string name="college_fergusson_phone">020-25675359</string>
+    <string name="college_fergusson_website">www.fergusson.edu</string>
+    <string name="college_fergusson_mail"> fip_comp@vsnl.com</string>
+    <string name="college_fergusson_type">Science</string>
+
+    <string name="college_symbiosis_name">	Symbiosis College, Pune</string>
+    <string name="college_symbiosis_address">8th Floor, Symbiosis Vishwa Bhavan, Ganesh Khind, Senapati Bapat Road, Pune-411004</string>
+    <string name="college_symbiosis_phone">020-25652444</string>
+    <string name="college_symbiosis_website">www.siec.ac.in</string>
+    <string name="college_symbiosis_mail">contact@symbiosiscollege.edu.in</string>
+    <string name="college_symbiosis_type">Engineering</string>
+
+    <string name="company_tcs_name">Tata Consultancy Services / TCS</string>
+    <string name="company_tcs_details">TCS has delivery centers, regional offices and research labs in camp, bhosari, hadapsar, yerwada in Pune.</string>
+    <string name="company_tcs_address">Tata Research Development and Design Centre, 54/B, Hadapsar Industrial Estate, Hadapsar, Pune - 411013</string>
+    <string name="company_tcs_website">www.tcs.com</string>
+    <string name="company_tcs_mail">indiageo.pmo@tcs.com</string>
+    <string name="company_tcs_phone">91 20 66086333</string>
+
+    <string name="company_infosys_name">Infosys Technologies</string>
+    <string name="company_infosys_details">Provides consulting and IT services to clients globally.</string>
+    <string name="company_infosys_address">Plot No. 1, Rajiv Gandhi Infotech Park, Hinjawadi, Taluka Mulshi, Pune - 411057</string>
+    <string name="company_infosys_website">www.infosys.com</string>
+    <string name="company_infosys_mail">askus@infosys.com</string>
+    <string name="company_infosys_phone"> +91 20 2293 2800/01</string>
+
+    <string name="company_persistent_name">Persistent Systems Limited</string>
+    <string name="company_persistent_details">Offers outsourced software product development services.</string>
+    <string name="company_persistent_address">Bhageerath, 402, Senapati Bapat Road, Pune - 411016</string>
+    <string name="company_persistent_website">www.persistentsys.com</string>
+    <string name="company_persistent_mail">info@persistentsys.com</string>
+    <string name="company_persistent_phone">25702000 </string>
+
+    <string name="company_wipro_name">Wipro Technologies</string>
+    <string name="company_wipro_details">Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO) is a leading global information technology, consulting and business process services company.</string>
+    <string name="company_wipro_address">Plot No 2, MIDC Pune Infotech Park Hinjewadi Pune - 411057</string>
+    <string name="company_wipro_website">www.wipro.com</string>
+    <string name="company_wipro_mail">helpdesk.recruitment@wipro.com</string>
+    <string name="company_wipro_phone">22933750 </string>
+
+    <string name="company_capgemini_name">Capgemini India</string>
+    <string name="company_capgemini_details">Offers consulting, technology and outsourcing services globally.</string>
+    <string name="company_capgemini_address">A-1, Technology Park, MIDC Talwade, Pune - 412114</string>
+    <string name="company_capgemini_website">in.capgemini.com</string>
+    <string name="company_capgemini_mail">campus.ig@capgemini.com</string>
+    <string name="company_capgemini_phone">27601000 </string>
+
+    <string name="company_synechron_name">Synechron Technologies Pvt Ltd</string>
+    <string name="company_synechron_details">Synechron is claimed to provide software and consulting services in Product/Application Development,Customization Services,Enterprise Application Integration,Application Maintenance and Support,Migration Services,Process and Workflow Automation,QA and Testing Services,Knowledge Process Outsourcing</string>
+    <string name="company_synechron_address">Synechron IT Towers, MIDC Knowledge Park, Kharadi, Pune. India - 411014</string>
+    <string name="company_synechron_website">www.synechron.com</string>
+    <string name="company_synechron_mail">contact@symbiosiscollege.edu.in</string>
+    <string name="company_synechron_phone">40795000 </string>
+
+    <string name="company_accenture_name">Accenture Services Pvt Ltd.</string>
+    <string name="company_accenture_details">Accenture is a global consulting, technology and outsourcing services company. Accenture has 2 delivery centers in Pune at Magarpatta City, Hadapsar, Pune.</string>
+    <string name="company_accenture_address">Tower 5, Cybercity, 143, Magarpatta City, Hadapsar – Mundhwa Road, Hadapsar, Pune - 411013</string>
+    <string name="company_accenture_website"> www.accenture.com/Countries/India/</string>
+    <string name="company_accenture_mail">support@accenturealumni.com</string>
+    <string name="company_accenture_phone">+91 20 6625 3000</string>
+
+    <string name="fort_sinhagad_name">Sinhagad Fort</string>
+    <string name="fort_sinhagad_detail">Located close to the city of Pune, the Sinhagad Fort gets its name from the Marathi word Lion. One of the more popular forts in Maharashtra, this fort is believed to have been conquered by Tanaji Malusare’s brother from the Mughals.</string>
+    <string name="fort_sinhagad_location"> Thoptewadi</string>
+    <string name="fort_sinhagad_visiting_hours">5 am to 9 pm</string>
+    <string name="fort_sinhagad_nearest_railway_station"> Pune</string>
+    <string name="fort_sinhagad_height">4,320 ft</string>
+
+
+    <string name="fort_rajgad_name">Rajgad Fort</string>
+    <string name="fort_rajgad_detail">The Rajgad Fort was built on the Murumbadevi Dongar Hills in the Sahyadris range. It was the first capital of Shivaji Maharaj, and is also believed to the place where Shivaji’s wife, Saibai, spent her last few days.</string>
+    <string name="fort_rajgad_location">Balekilla Road</string>
+    <string name="fort_rajgad_visiting_hours">Open all day</string>
+    <string name="fort_rajgad_nearest_railway_station">Pune</string>
+    <string name="fort_rajgad_height">4,600 ft</string>
+
+    <string name="fort_shivneri_name">Shivneri Fort</string>
+    <string name="fort_shivneri_detail">Considered to be the birthplace of Shivaji Maharaj, the Shivneri Fort holds high esteem in Maratha and Maharashtrian history. The fort was constructed in a unique triangular shape and had many mosques, ponds and a tomb inside. Here, there is a temple that is dedicated to Goddess Shivai Devi and a massive chain gate at the entrance..</string>
+    <string name="fort_shivneri_location"> Junnar.</string>
+    <string name="fort_shivneri_visiting_hours">All Day</string>
+    <string name="fort_shivneri_nearest_railway_station">Pune</string>
+    <string name="fort_shivneri_height">3,500 ft</string>
+
+    <string name="fort_tung_name">Tung Fort</string>
+    <string name="fort_tung_detail">A small fort located on the outskirts of Pune, the Tung Fort was built by Adil Shah some time before  1600 CE. It has seen plenty of wars, the famous ones being between the Marathas and the Moghuls. The Tung Fort is well known for its conical and oval shape and as a trail for experienced trekkers.</string>
+    <string name="fort_tung_location">Pune</string>
+    <string name="fort_tung_visiting_hours">9 am to 6 pm</string>
+    <string name="fort_tung_nearest_railway_station"> Pune</string>
+    <string name="fort_tung_height">3,000 ft</string>
+
+    <string name="fort_pratapgad_name">Pratapgad Fort</string>
+    <string name="fort_pratapgad_detail">The Pratapgad Fort is an important fort built by Chhatrapati Shivaji Maharaj. Actually, the main fort consists of two forts (one at the top of the hill and the other at the south east end). The Pratapgad Fort is known for the battle of Pratapgad that took place between Shivaji Maharaj and Afzal Khan..</string>
+    <string name="fort_pratapgad_location">Mahabaleshwar</string>
+    <string name="fort_pratapgad_visiting_hours"> 6 am to 8 pm</string>
+    <string name="fort_pratapgad_nearest_railway_station">Pune</string>
+    <string name="fort_pratapgad_height">1,080 ft</string>
+
+    <string name="fort_malhargad_name">Malhargad Fort (Sonori Fort)</string>
+    <string name="fort_malhargad_detail">Named after the Hindu God Malhargad, this fort lies about 30 kilometres away from Pune. To get to the fort, one has to climb a hill in the Sonori village. Although the outer structure of the fort remains intact, the interiors are in ruins.</string>
+    <string name="fort_malhargad_location">Pune</string>
+    <string name="fort_malhargad_visiting_hours">6 am to 8 pm</string>
+    <string name="fort_malhargad_nearest_railway_station">Pune</string>
+    <string name="fort_malhargad_height">3,100 ft</string>
+
+    <string name="fort_lohgad_name">Lohagad Fort</string>
+    <string name="fort_lohgad_detail">One of the most strategically important forts for the Marathas, the Lohagad Fort was conquered twice by Shivaji Maharaj. This imposing fort stands tall at a height of 1033 metres. Inside the fort, there is a massive chhatri, an elevated, dome-shaped pavilion that now lies in ruin. It is a great spot for photography.</string>
+    <string name="fort_lohgad_location"> Lohagad Trek Road.</string>
+    <string name="fort_lohgad_visiting_hours">Daily till 6 pm</string>
+    <string name="fort_lohgad_nearest_railway_station">Lonavala.</string>
+    <string name="fort_lohgad_height">3,389 ft</string>
+
+    <string name="fort_korigad_name">Korigad Fort</string>
+    <string name="fort_korigad_detail">The Korigad Fort is located close to Lonavala and sits at a height of 923 metres above sea level. The main feature of the fort is that, till this day, most of its structure is intact.Inside the fort, there are many temples where prayers are offered daily. Of all the forts in Maharashtra, this one is the most popular trekking spot. Adventure sports lovers come here from Lonavala and cities like Mumbai. Close to the Korigad Fort is the Aamby Valley.</string>
+    <string name="fort_korigad_location">Lonavala</string>
+    <string name="fort_korigad_visiting_hours">Open All Day</string>
+    <string name="fort_korigad_nearest_railway_station">Lonavala</string>
+    <string name="fort_korigad_height">3,028 ft</string>
+
+    <string name="fort_purandar_name">Purandar Fort</string>
+    <string name="fort_purandar_detail">The Purandar Fort is believed to be the place where Shivaji’s son, Sambhaji, was born. Situated about 50 kilometres away from Pune, the Purandar Fort is one of the few in Maharashtra that has two levels within its premises.</string>
+    <string name="fort_purandar_location">Near Pune</string>
+    <string name="fort_purandar_visiting_hours">9 am to 5 pm</string>
+    <string name="fort_purandar_nearest_railway_station">Pune</string>
+    <string name="fort_purandar_height">4,472 ft</string>
+
+
+</resources>

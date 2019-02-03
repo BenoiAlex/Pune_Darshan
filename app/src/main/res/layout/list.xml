@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/photo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:scaleType="centerInside" />
+
+            <TextView
+                android:id="@+id/name"
+                style="@style/Title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/description"
+                style="@style/Description"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/address"
+                style="@style/main"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:autoLink="map"
+                android:drawableStart="@drawable/ic_place"
+                android:drawableLeft="@drawable/ic_place"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/schedule"
+                style="@style/main"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableStart="@drawable/ic_schedule"
+                android:drawableLeft="@drawable/ic_schedule"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/mail"
+                style="@style/main"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:autoLink="email"
+                android:drawableStart="@drawable/ic_mail"
+                android:drawableLeft="@drawable/ic_mail"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/website"
+                style="@style/main"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:autoLink="web"
+                android:drawableStart="@drawable/ic_language"
+                android:drawableLeft="@drawable/ic_language"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/height"
+                style="@style/main"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:autoLink="map"
+                android:drawableStart="@drawable/ic_arrow_upward"
+                android:drawableLeft="@drawable/ic_arrow_upward"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/cost"
+                style="@style/main"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableStart="@drawable/ic_money"
+                android:drawableLeft="@drawable/ic_money"
+                android:text="" />
+
+            <TextView
+                android:id="@+id/phone"
+                style="@style/main"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:autoLink="phone"
+                android:drawableStart="@drawable/ic_phone"
+                android:drawableLeft="@drawable/ic_phone"
+                android:text="" />
+
+        </LinearLayout>
+
+
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>
